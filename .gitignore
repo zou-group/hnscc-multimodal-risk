@@ -1,0 +1,16 @@
+# outputs and data (may contain patient-level results)
+outputs/
+*.csv
+*.tsv
+*.pkl
+*.pt
+*.pth
+*.h5
+*.svs
+*.tiff
+*.png
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
